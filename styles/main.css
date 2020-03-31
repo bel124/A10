@@ -20,6 +20,9 @@ h3{
 	text-indent: 30px;
 }
 
+span.shadow {
+	text-shadow: maroon;
+}
 /* the styles for the section */
 main {
 	clear: left;
