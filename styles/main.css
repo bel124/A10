@@ -9,6 +9,12 @@ header img {
 	float: left;
 }
 
+h2:{
+	font-size: 170%;
+	color: Maroon;
+	text-indent: 30px;
+}
+
 /* the styles for the section */
 main {
 	clear: left;
